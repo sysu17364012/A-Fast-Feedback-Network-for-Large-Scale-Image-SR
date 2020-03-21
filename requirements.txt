@@ -1,0 +1,15 @@
+cython
+cffi
+opencv-python
+scipy
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
+skimage
+imageio
+Pytorch>=0.4.1
+tqdm
+pandas
+opencv-python
