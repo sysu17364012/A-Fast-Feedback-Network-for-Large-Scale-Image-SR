@@ -1,7 +1,7 @@
 cython
 cffi
 opencv-python
-scipy
+scipy==1.2.1
 msgpack
 easydict
 matplotlib
@@ -12,4 +12,4 @@ imageio
 Pytorch>=0.4.1
 tqdm
 pandas
-opencv-python
+
